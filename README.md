@@ -2,7 +2,7 @@
 
 ## Pac-Man style pygame game
 
-A simple Pac-Man style game is included in `/home/runner/work/schoolwork/schoolwork/pacman_game.py`.
+A simple Pac-Man style game is included in `pacman_game.py`.
 
 ### Run
 
